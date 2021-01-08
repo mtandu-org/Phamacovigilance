@@ -1,0 +1,583 @@
+INFO: 2020-03-23 17:10:39,655: Testing model of upsampled data 
+INFO: 2020-03-23 17:10:39,655: model name:RF-f1-0.894
+INFO: 2020-03-23 17:10:39,783: Sensitivity :0.934 
+INFO: 2020-03-23 17:10:39,784: Specificity : 0.991
+INFO: 2020-03-23 17:10:39,787: balanced Accuracy: 0.963
+INFO: 2020-03-23 17:10:39,789: f1 score: 0.960
+INFO: 2020-03-23 17:10:42,383: ---------Done----------------------
+INFO: 2020-03-24 13:59:44,550: Testing model of upsampled data 
+INFO: 2020-03-24 13:59:44,561: model name:GB-f1-0.891
+INFO: 2020-03-24 13:59:44,718: Sensitivity :0.922 
+INFO: 2020-03-24 13:59:44,718: Specificity : 0.971
+INFO: 2020-03-24 13:59:44,722: balanced Accuracy: 0.947
+INFO: 2020-03-24 13:59:44,725: f1 score: 0.944
+INFO: 2020-03-24 13:59:50,931: ---------Done----------------------
+INFO: 2020-04-23 14:44:17,090: Testing model of upsampled data 
+INFO: 2020-04-23 14:44:17,104: model name:GB-f1-0.891
+INFO: 2020-04-23 14:44:40,025: Testing model of upsampled data 
+INFO: 2020-04-23 14:44:40,026: model name:GB-f1-0.917
+INFO: 2020-04-23 14:44:40,031: Sensitivity :0.277 
+INFO: 2020-04-23 14:44:40,031: Specificity : 0.627
+INFO: 2020-04-23 14:44:40,033: balanced Accuracy: 0.452
+INFO: 2020-04-23 14:44:40,035: f1 score: 0.414
+INFO: 2020-04-23 14:44:41,314: ---------Done----------------------
+INFO: 2020-04-24 17:53:08,826: Testing model of upsampled data 
+INFO: 2020-04-24 17:53:08,871: model name:GB-f1-0.917
+INFO: 2020-04-24 17:53:08,876: Sensitivity :0.277 
+INFO: 2020-04-24 17:53:08,876: Specificity : 0.627
+INFO: 2020-04-24 17:53:08,878: balanced Accuracy: 0.452
+INFO: 2020-04-24 17:53:08,896: f1 score: 0.414
+INFO: 2020-04-24 17:53:11,959: ---------Done----------------------
+INFO: 2020-04-27 08:44:25,434: Upsampled class with the model : KNN
+INFO: 2020-04-27 08:47:00,370: Upsampled class with the model : KNN
+INFO: 2020-04-27 08:47:09,212: Sensitivity :0.832 
+INFO: 2020-04-27 08:47:09,212: Specificity : 0.954
+INFO: 2020-04-27 08:47:09,214: balanced Accuracy: 0.893
+INFO: 2020-04-27 08:47:09,216: f1 score: 0.888
+INFO: 2020-04-27 08:47:09,260:               f1-score  precision    recall     support
+0             0.890173   0.956522  0.832432  185.000000
+1             0.884848   0.824859  0.954248  153.000000
+accuracy      0.887574   0.887574  0.887574    0.887574
+macro avg     0.887511   0.890690  0.893340  338.000000
+weighted avg  0.887763   0.896923  0.887574  338.000000
+INFO: 2020-04-27 08:47:11,824: -----------Done--------------------
+INFO: 2020-04-27 09:56:06,381: Testing model of upsampled data 
+INFO: 2020-04-27 09:56:06,500: model name:KNN-f1-0.888
+INFO: 2020-04-27 09:56:06,948: Sensitivity :0.604 
+INFO: 2020-04-27 09:56:06,948: Specificity : 0.532
+INFO: 2020-04-27 09:56:06,949: balanced Accuracy: 0.568
+INFO: 2020-04-27 09:56:06,985: f1 score: 0.573
+INFO: 2020-04-27 09:56:11,864: ---------Done----------------------
+INFO: 2020-04-27 09:59:31,166: Testing model of upsampled data 
+INFO: 2020-04-27 09:59:31,246: model name:KNN-f1-0.888
+INFO: 2020-04-27 09:59:31,795: Sensitivity :0.604 
+INFO: 2020-04-27 09:59:31,795: Specificity : 0.532
+INFO: 2020-04-27 09:59:31,796: balanced Accuracy: 0.568
+INFO: 2020-04-27 09:59:31,798: f1 score: 0.573
+INFO: 2020-04-27 09:59:36,148: ---------Done----------------------
+INFO: 2020-04-27 10:03:35,315: Testing model of upsampled data 
+INFO: 2020-04-27 10:03:35,349: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:03:35,813: Sensitivity :0.604 
+INFO: 2020-04-27 10:03:35,814: Specificity : 0.532
+INFO: 2020-04-27 10:03:35,816: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:03:35,818: f1 score: 0.573
+INFO: 2020-04-27 10:03:39,386: ---------Done----------------------
+INFO: 2020-04-27 10:05:04,915: Testing model of upsampled data 
+INFO: 2020-04-27 10:05:04,971: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:05:05,430: Sensitivity :0.604 
+INFO: 2020-04-27 10:05:05,430: Specificity : 0.532
+INFO: 2020-04-27 10:05:05,432: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:05:05,434: f1 score: 0.573
+INFO: 2020-04-27 10:05:05,757: ---------Done----------------------
+INFO: 2020-04-27 10:06:06,315: Testing model of upsampled data 
+INFO: 2020-04-27 10:06:06,358: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:06:06,842: Sensitivity :0.604 
+INFO: 2020-04-27 10:06:06,842: Specificity : 0.532
+INFO: 2020-04-27 10:06:06,844: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:06:06,846: f1 score: 0.573
+INFO: 2020-04-27 10:06:07,139: ---------Done----------------------
+INFO: 2020-04-27 10:17:57,504: Testing model of upsampled data 
+INFO: 2020-04-27 10:17:57,533: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:17:57,992: Sensitivity :0.604 
+INFO: 2020-04-27 10:17:57,992: Specificity : 0.532
+INFO: 2020-04-27 10:17:57,994: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:17:57,996: f1 score: 0.573
+INFO: 2020-04-27 10:17:58,458: ---------Done----------------------
+INFO: 2020-04-27 10:17:58,604: Testing model of upsampled data 
+INFO: 2020-04-27 10:17:58,604: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:17:59,063: Sensitivity :0.604 
+INFO: 2020-04-27 10:17:59,064: Specificity : 0.532
+INFO: 2020-04-27 10:17:59,065: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:17:59,067: f1 score: 0.573
+INFO: 2020-04-27 10:17:59,334: ---------Done----------------------
+INFO: 2020-04-27 10:17:59,470: Testing model of upsampled data 
+INFO: 2020-04-27 10:17:59,471: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:17:59,953: Sensitivity :0.604 
+INFO: 2020-04-27 10:17:59,953: Specificity : 0.532
+INFO: 2020-04-27 10:17:59,955: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:17:59,957: f1 score: 0.573
+INFO: 2020-04-27 10:18:00,231: ---------Done----------------------
+INFO: 2020-04-27 10:18:00,366: Testing model of upsampled data 
+INFO: 2020-04-27 10:18:00,366: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:18:00,819: Sensitivity :0.604 
+INFO: 2020-04-27 10:18:00,820: Specificity : 0.532
+INFO: 2020-04-27 10:18:00,822: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:18:00,824: f1 score: 0.573
+INFO: 2020-04-27 10:18:01,004: ---------Done----------------------
+INFO: 2020-04-27 10:18:01,134: Testing model of upsampled data 
+INFO: 2020-04-27 10:18:01,135: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:18:01,619: Sensitivity :0.604 
+INFO: 2020-04-27 10:18:01,620: Specificity : 0.532
+INFO: 2020-04-27 10:18:01,621: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:18:01,624: f1 score: 0.573
+INFO: 2020-04-27 10:18:01,878: ---------Done----------------------
+INFO: 2020-04-27 10:18:02,019: Testing model of upsampled data 
+INFO: 2020-04-27 10:18:02,020: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:18:02,471: Sensitivity :0.604 
+INFO: 2020-04-27 10:18:02,471: Specificity : 0.532
+INFO: 2020-04-27 10:18:02,474: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:18:02,476: f1 score: 0.573
+INFO: 2020-04-27 10:18:02,730: ---------Done----------------------
+INFO: 2020-04-27 10:18:02,869: Testing model of upsampled data 
+INFO: 2020-04-27 10:18:02,869: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:18:03,317: Sensitivity :0.604 
+INFO: 2020-04-27 10:18:03,317: Specificity : 0.532
+INFO: 2020-04-27 10:18:03,319: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:18:03,321: f1 score: 0.573
+INFO: 2020-04-27 10:18:03,570: ---------Done----------------------
+INFO: 2020-04-27 10:18:03,681: Testing model of upsampled data 
+INFO: 2020-04-27 10:18:03,681: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:18:04,136: Sensitivity :0.604 
+INFO: 2020-04-27 10:18:04,136: Specificity : 0.532
+INFO: 2020-04-27 10:18:04,138: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:18:04,140: f1 score: 0.573
+INFO: 2020-04-27 10:18:04,321: ---------Done----------------------
+INFO: 2020-04-27 10:18:04,436: Testing model of upsampled data 
+INFO: 2020-04-27 10:18:04,436: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:18:04,910: Sensitivity :0.604 
+INFO: 2020-04-27 10:18:04,911: Specificity : 0.532
+INFO: 2020-04-27 10:18:04,913: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:18:04,915: f1 score: 0.573
+INFO: 2020-04-27 10:18:05,169: ---------Done----------------------
+INFO: 2020-04-27 10:18:05,347: Testing model of upsampled data 
+INFO: 2020-04-27 10:18:05,347: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:18:05,794: Sensitivity :0.604 
+INFO: 2020-04-27 10:18:05,794: Specificity : 0.532
+INFO: 2020-04-27 10:18:05,796: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:18:05,798: f1 score: 0.573
+INFO: 2020-04-27 10:18:06,053: ---------Done----------------------
+INFO: 2020-04-27 10:18:06,186: Testing model of upsampled data 
+INFO: 2020-04-27 10:18:06,187: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:18:06,632: Sensitivity :0.604 
+INFO: 2020-04-27 10:18:06,632: Specificity : 0.532
+INFO: 2020-04-27 10:18:06,635: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:18:06,637: f1 score: 0.573
+INFO: 2020-04-27 10:18:06,896: ---------Done----------------------
+INFO: 2020-04-27 10:18:07,005: Testing model of upsampled data 
+INFO: 2020-04-27 10:18:07,006: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:18:07,481: Sensitivity :0.604 
+INFO: 2020-04-27 10:18:07,481: Specificity : 0.532
+INFO: 2020-04-27 10:18:07,483: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:18:07,485: f1 score: 0.573
+INFO: 2020-04-27 10:18:07,671: ---------Done----------------------
+INFO: 2020-04-27 10:23:44,163: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:44,196: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:44,663: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:44,664: Specificity : 0.532
+INFO: 2020-04-27 10:23:44,666: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:44,668: f1 score: 0.573
+INFO: 2020-04-27 10:23:46,600: ---------Done----------------------
+INFO: 2020-04-27 10:23:46,771: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:46,772: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:47,391: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:47,392: Specificity : 0.532
+INFO: 2020-04-27 10:23:47,393: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:47,395: f1 score: 0.573
+INFO: 2020-04-27 10:23:47,659: ---------Done----------------------
+INFO: 2020-04-27 10:23:47,783: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:47,784: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:48,239: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:48,240: Specificity : 0.532
+INFO: 2020-04-27 10:23:48,242: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:48,244: f1 score: 0.573
+INFO: 2020-04-27 10:23:48,505: ---------Done----------------------
+INFO: 2020-04-27 10:23:48,648: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:48,648: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:49,099: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:49,099: Specificity : 0.532
+INFO: 2020-04-27 10:23:49,101: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:49,103: f1 score: 0.573
+INFO: 2020-04-27 10:23:49,364: ---------Done----------------------
+INFO: 2020-04-27 10:23:49,507: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:49,507: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:49,958: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:49,959: Specificity : 0.532
+INFO: 2020-04-27 10:23:49,960: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:49,962: f1 score: 0.573
+INFO: 2020-04-27 10:23:50,145: ---------Done----------------------
+INFO: 2020-04-27 10:23:50,268: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:50,268: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:50,740: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:50,740: Specificity : 0.532
+INFO: 2020-04-27 10:23:50,742: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:50,744: f1 score: 0.573
+INFO: 2020-04-27 10:23:50,946: ---------Done----------------------
+INFO: 2020-04-27 10:23:51,087: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:51,088: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:51,541: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:51,541: Specificity : 0.532
+INFO: 2020-04-27 10:23:51,543: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:51,545: f1 score: 0.573
+INFO: 2020-04-27 10:23:51,744: ---------Done----------------------
+INFO: 2020-04-27 10:23:51,890: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:51,891: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:52,336: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:52,336: Specificity : 0.532
+INFO: 2020-04-27 10:23:52,338: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:52,340: f1 score: 0.573
+INFO: 2020-04-27 10:23:52,592: ---------Done----------------------
+INFO: 2020-04-27 10:23:52,725: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:52,725: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:53,170: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:53,171: Specificity : 0.532
+INFO: 2020-04-27 10:23:53,172: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:53,174: f1 score: 0.573
+INFO: 2020-04-27 10:23:53,431: ---------Done----------------------
+INFO: 2020-04-27 10:23:53,596: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:53,596: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:54,040: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:54,040: Specificity : 0.532
+INFO: 2020-04-27 10:23:54,042: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:54,044: f1 score: 0.573
+INFO: 2020-04-27 10:23:54,301: ---------Done----------------------
+INFO: 2020-04-27 10:23:54,435: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:54,435: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:54,889: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:54,889: Specificity : 0.532
+INFO: 2020-04-27 10:23:54,891: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:54,893: f1 score: 0.573
+INFO: 2020-04-27 10:23:55,150: ---------Done----------------------
+INFO: 2020-04-27 10:23:55,282: Testing model of upsampled data 
+INFO: 2020-04-27 10:23:55,282: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:23:55,727: Sensitivity :0.604 
+INFO: 2020-04-27 10:23:55,727: Specificity : 0.532
+INFO: 2020-04-27 10:23:55,729: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:23:55,732: f1 score: 0.573
+INFO: 2020-04-27 10:23:55,973: ---------Done----------------------
+INFO: 2020-04-27 10:27:03,245: Testing model of upsampled data 
+INFO: 2020-04-27 10:27:03,245: model name:RF-f1-0.894
+INFO: 2020-04-27 10:28:53,085: Testing model of upsampled data 
+INFO: 2020-04-27 10:28:53,119: model name:KNN-f1-0.867
+INFO: 2020-04-27 10:28:53,626: Sensitivity :0.500 
+INFO: 2020-04-27 10:28:53,627: Specificity : 0.690
+INFO: 2020-04-27 10:28:53,629: balanced Accuracy: 0.595
+INFO: 2020-04-27 10:28:53,632: f1 score: 0.582
+INFO: 2020-04-27 10:29:03,847: ---------Done----------------------
+INFO: 2020-04-27 10:29:05,487: Testing model of upsampled data 
+INFO: 2020-04-27 10:29:05,487: model name:KNN-f1-0.878
+INFO: 2020-04-27 10:29:06,216: Sensitivity :0.733 
+INFO: 2020-04-27 10:29:06,216: Specificity : 0.633
+INFO: 2020-04-27 10:29:06,218: balanced Accuracy: 0.683
+INFO: 2020-04-27 10:29:06,220: f1 score: 0.688
+INFO: 2020-04-27 10:29:06,582: ---------Done----------------------
+INFO: 2020-04-27 10:29:12,386: Testing model of upsampled data 
+INFO: 2020-04-27 10:29:12,889: model name:KNN-f1-0.898
+INFO: 2020-04-27 10:31:21,931: Testing model of upsampled data 
+INFO: 2020-04-27 10:31:22,006: model name:KNN-f1-0.867
+INFO: 2020-04-27 10:31:22,487: Sensitivity :0.500 
+INFO: 2020-04-27 10:31:22,488: Specificity : 0.690
+INFO: 2020-04-27 10:31:22,489: balanced Accuracy: 0.595
+INFO: 2020-04-27 10:31:22,545: f1 score: 0.582
+INFO: 2020-04-27 10:31:30,186: ---------Done----------------------
+INFO: 2020-04-27 10:31:31,256: Testing model of upsampled data 
+INFO: 2020-04-27 10:31:31,256: model name:KNN-f1-0.878
+INFO: 2020-04-27 10:31:31,895: Sensitivity :0.733 
+INFO: 2020-04-27 10:31:31,895: Specificity : 0.633
+INFO: 2020-04-27 10:31:31,897: balanced Accuracy: 0.683
+INFO: 2020-04-27 10:31:31,899: f1 score: 0.688
+INFO: 2020-04-27 10:31:32,196: ---------Done----------------------
+INFO: 2020-04-27 10:31:35,641: Testing model of upsampled data 
+INFO: 2020-04-27 10:31:35,642: model name:KNN-f1-0.888
+INFO: 2020-04-27 10:31:36,197: Sensitivity :0.604 
+INFO: 2020-04-27 10:31:36,198: Specificity : 0.532
+INFO: 2020-04-27 10:31:36,200: balanced Accuracy: 0.568
+INFO: 2020-04-27 10:31:36,202: f1 score: 0.573
+INFO: 2020-04-27 10:31:36,507: ---------Done----------------------
+INFO: 2020-04-27 10:32:49,231: Testing model of upsampled data 
+INFO: 2020-04-27 10:32:49,231: model name:GB-f1-0.917
+INFO: 2020-04-27 10:32:49,237: Sensitivity :0.277 
+INFO: 2020-04-27 10:32:49,237: Specificity : 0.627
+INFO: 2020-04-27 10:32:49,239: balanced Accuracy: 0.452
+INFO: 2020-04-27 10:32:49,241: f1 score: 0.414
+INFO: 2020-04-27 10:32:49,632: ---------Done----------------------
+INFO: 2020-04-27 10:32:49,817: Testing model of upsampled data 
+INFO: 2020-04-27 10:32:49,817: model name:GBN-f1-0.822
+INFO: 2020-04-27 10:34:29,341: Testing model of upsampled data 
+INFO: 2020-04-27 10:34:29,393: model name:GB-f1-0.917
+INFO: 2020-04-27 10:34:29,396: Sensitivity :0.277 
+INFO: 2020-04-27 10:34:29,397: Specificity : 0.627
+INFO: 2020-04-27 10:34:29,398: balanced Accuracy: 0.452
+INFO: 2020-04-27 10:34:29,399: f1 score: 0.414
+INFO: 2020-04-27 10:34:32,522: ---------Done----------------------
+INFO: 2020-04-27 10:34:32,741: Testing model of upsampled data 
+INFO: 2020-04-27 10:34:32,741: model name:GBN-f1-0.825
+INFO: 2020-04-27 10:34:32,751: Sensitivity :0.406 
+INFO: 2020-04-27 10:34:32,751: Specificity : 0.766
+INFO: 2020-04-27 10:34:32,753: balanced Accuracy: 0.586
+INFO: 2020-04-27 10:34:32,755: f1 score: 0.553
+INFO: 2020-04-27 10:34:33,050: ---------Done----------------------
+INFO: 2020-04-27 10:34:33,355: Testing model of upsampled data 
+INFO: 2020-04-27 10:34:33,356: model name:GB-f1-0.891
+INFO: 2020-04-27 10:35:37,671: Testing model of upsampled data 
+INFO: 2020-04-27 10:35:37,805: model name:GB-f1-0.917
+INFO: 2020-04-27 10:35:37,897: Sensitivity :0.277 
+INFO: 2020-04-27 10:35:37,898: Specificity : 0.627
+INFO: 2020-04-27 10:35:37,901: balanced Accuracy: 0.452
+INFO: 2020-04-27 10:35:37,906: f1 score: 0.414
+INFO: 2020-04-27 10:35:40,899: ---------Done----------------------
+INFO: 2020-04-27 10:35:41,096: Testing model of upsampled data 
+INFO: 2020-04-27 10:35:41,097: model name:GBN-f1-0.825
+INFO: 2020-04-27 10:35:41,110: Sensitivity :0.406 
+INFO: 2020-04-27 10:35:41,110: Specificity : 0.766
+INFO: 2020-04-27 10:35:41,112: balanced Accuracy: 0.586
+INFO: 2020-04-27 10:35:41,115: f1 score: 0.553
+INFO: 2020-04-27 10:35:41,395: ---------Done----------------------
+INFO: 2020-04-27 10:36:48,856: Testing model of upsampled data 
+INFO: 2020-04-27 10:36:48,896: model name:RF-f1-0.894
+INFO: 2020-04-27 10:37:28,227: Testing model of upsampled data 
+INFO: 2020-04-27 10:37:28,321: model name:RF-f1-0.906
+INFO: 2020-04-27 10:37:28,487: Sensitivity :0.624 
+INFO: 2020-04-27 10:37:28,487: Specificity : 0.456
+INFO: 2020-04-27 10:37:28,489: balanced Accuracy: 0.540
+INFO: 2020-04-27 10:37:28,491: f1 score: 0.548
+INFO: 2020-04-27 10:37:32,321: ---------Done----------------------
+INFO: 2020-04-27 10:37:59,321: Testing model of upsampled data 
+INFO: 2020-04-27 10:37:59,361: model name:MLP-f1-0.789
+INFO: 2020-04-27 10:38:37,323: Testing model of upsampled data 
+INFO: 2020-04-27 10:38:37,359: model name:MLP-f1-0.826
+INFO: 2020-04-27 10:38:37,450: Sensitivity :0.782 
+INFO: 2020-04-27 10:38:37,454: Specificity : 0.127
+INFO: 2020-04-27 10:38:37,467: balanced Accuracy: 0.454
+INFO: 2020-04-27 10:38:37,483: f1 score: 0.435
+INFO: 2020-04-27 10:38:39,865: ---------Done----------------------
+INFO: 2020-04-27 10:49:44,479: Testing model of upsampled data 
+INFO: 2020-04-27 10:49:44,492: model name:GBN-f1-0.825
+INFO: 2020-04-27 10:49:44,532: Sensitivity :0.406 
+INFO: 2020-04-27 10:49:44,533: Specificity : 0.766
+INFO: 2020-04-27 10:49:44,535: balanced Accuracy: 0.586
+INFO: 2020-04-27 10:49:44,549: f1 score: 0.553
+INFO: 2020-04-27 10:49:45,215: ---------Done----------------------
+INFO: 2020-04-27 13:17:34,135: Testing model of upsampled data 
+INFO: 2020-04-27 13:17:34,178: model name:KNN-f1-0.867
+INFO: 2020-04-27 13:17:34,668: Sensitivity :0.500 
+INFO: 2020-04-27 13:17:34,668: Specificity : 0.690
+INFO: 2020-04-27 13:17:34,669: balanced Accuracy: 0.595
+INFO: 2020-04-27 13:17:34,671: f1 score: 0.582
+INFO: 2020-04-27 13:17:34,714:               f1-score  precision    recall     support
+0             0.573864   0.673333  0.500000  202.000000
+1             0.592391   0.519048  0.689873  158.000000
+accuracy      0.583333   0.583333  0.583333    0.583333
+macro avg     0.583127   0.596190  0.594937  360.000000
+weighted avg  0.581995   0.605619  0.583333  360.000000
+INFO: 2020-04-27 13:17:39,744: ---------Done----------------------
+INFO: 2020-04-27 13:17:40,163: Testing model of upsampled data 
+INFO: 2020-04-27 13:17:40,164: model name:KNN-f1-0.878
+INFO: 2020-04-27 13:17:40,872: Sensitivity :0.733 
+INFO: 2020-04-27 13:17:40,873: Specificity : 0.633
+INFO: 2020-04-27 13:17:40,874: balanced Accuracy: 0.683
+INFO: 2020-04-27 13:17:40,876: f1 score: 0.688
+INFO: 2020-04-27 13:17:40,897:               f1-score  precision    recall     support
+0             0.725490   0.718447  0.732673  202.000000
+1             0.641026   0.649351  0.632911  158.000000
+accuracy      0.688889   0.688889  0.688889    0.688889
+macro avg     0.683258   0.683899  0.682792  360.000000
+weighted avg  0.688420   0.688121  0.688889  360.000000
+INFO: 2020-04-27 13:17:41,174: ---------Done----------------------
+INFO: 2020-04-27 13:17:41,454: Testing model of upsampled data 
+INFO: 2020-04-27 13:17:41,455: model name:KNN-f1-0.888
+INFO: 2020-04-27 13:17:42,006: Sensitivity :0.604 
+INFO: 2020-04-27 13:17:42,006: Specificity : 0.532
+INFO: 2020-04-27 13:17:42,008: balanced Accuracy: 0.568
+INFO: 2020-04-27 13:17:42,010: f1 score: 0.573
+INFO: 2020-04-27 13:17:42,023:               f1-score  precision    recall     support
+0             0.613065   0.622449  0.603960  202.000000
+1             0.521739   0.512195  0.531646  158.000000
+accuracy      0.572222   0.572222  0.572222    0.572222
+macro avg     0.567402   0.567322  0.567803  360.000000
+weighted avg  0.572983   0.574060  0.572222  360.000000
+INFO: 2020-04-27 13:17:44,675: ---------Done----------------------
+INFO: 2020-04-27 13:38:52,511: Testing model of upsampled data 
+INFO: 2020-04-27 13:38:52,533: model name:GBN-f1-0.825
+INFO: 2020-04-27 13:38:52,587: Sensitivity :0.406 
+INFO: 2020-04-27 13:38:52,587: Specificity : 0.766
+INFO: 2020-04-27 13:38:52,589: balanced Accuracy: 0.586
+INFO: 2020-04-27 13:38:52,591: f1 score: 0.553
+INFO: 2020-04-27 13:38:52,654:               f1-score  precision    recall     support
+0             0.510903   0.689076  0.405941  202.000000
+1             0.606516   0.502075  0.765823  158.000000
+accuracy      0.563889   0.563889  0.563889    0.563889
+macro avg     0.558710   0.595575  0.585882  360.000000
+weighted avg  0.552867   0.607003  0.563889  360.000000
+INFO: 2020-04-27 13:38:56,733: ---------Done----------------------
+INFO: 2020-04-27 15:30:53,039: Upsampled class with the model : KNN
+INFO: 2020-04-27 15:54:19,731: Upsampled class with the model : XGB
+INFO: 2020-04-27 15:54:48,697: Sensitivity :0.924 
+INFO: 2020-04-27 15:54:48,758: Specificity : 0.935
+INFO: 2020-04-27 15:54:48,761: balanced Accuracy: 0.929
+INFO: 2020-04-27 15:54:48,764: f1 score: 0.929
+INFO: 2020-04-27 15:54:48,897:               f1-score  precision    recall     support
+0             0.934426   0.944751  0.924324  185.000000
+1             0.922581   0.910828  0.934641  153.000000
+accuracy      0.928994   0.928994  0.928994    0.928994
+macro avg     0.928503   0.927790  0.929482  338.000000
+weighted avg  0.929064   0.929396  0.928994  338.000000
+INFO: 2020-04-27 15:54:52,018: -----------Done--------------------
+INFO: 2020-04-27 16:10:15,519: Testing model of upsampled data 
+INFO: 2020-04-27 16:10:15,547: model name:XGB-f1-0.929
+INFO: 2020-04-27 16:10:15,570: Sensitivity :0.149 
+INFO: 2020-04-27 16:10:15,571: Specificity : 0.639
+INFO: 2020-04-27 16:10:15,573: balanced Accuracy: 0.394
+INFO: 2020-04-27 16:10:15,575: f1 score: 0.322
+INFO: 2020-04-27 16:10:15,612:               f1-score  precision    recall     support
+0             0.207612   0.344828  0.148515  202.000000
+1             0.468677   0.369963  0.639241  158.000000
+accuracy      0.363889   0.363889  0.363889    0.363889
+macro avg     0.338145   0.357395  0.393878  360.000000
+weighted avg  0.322191   0.355859  0.363889  360.000000
+INFO: 2020-04-27 16:10:16,000: ---------Done----------------------
+INFO: 2020-04-27 16:14:03,852: Upsampled class with the model : BC
+INFO: 2020-04-27 16:16:49,815: Upsampled class with the model : BC
+INFO: 2020-04-27 16:25:23,396: Upsampled class with the model : LG
+INFO: 2020-04-27 16:26:40,939: Upsampled class with the model : EXT
+INFO: 2020-04-27 16:27:15,986: Upsampled class with the model : SVC
+INFO: 2020-04-27 16:28:23,463: Upsampled class with the model : LG
+INFO: 2020-04-27 16:28:24,297: Sensitivity :0.838 
+INFO: 2020-04-27 16:28:24,297: Specificity : 0.882
+INFO: 2020-04-27 16:28:24,309: balanced Accuracy: 0.860
+INFO: 2020-04-27 16:28:24,312: f1 score: 0.858
+INFO: 2020-04-27 16:28:24,388:               f1-score  precision    recall     support
+0             0.865922   0.895954  0.837838  185.000000
+1             0.849057   0.818182  0.882353  153.000000
+accuracy      0.857988   0.857988  0.857988    0.857988
+macro avg     0.857489   0.857068  0.860095  338.000000
+weighted avg  0.858288   0.860749  0.857988  338.000000
+INFO: 2020-04-27 16:28:27,238: -----------Done--------------------
+INFO: 2020-04-27 16:30:28,990: Upsampled class with the model : DTC
+INFO: 2020-04-27 16:30:29,821: Sensitivity :0.881 
+INFO: 2020-04-27 16:30:29,821: Specificity : 0.908
+INFO: 2020-04-27 16:30:29,823: balanced Accuracy: 0.895
+INFO: 2020-04-27 16:30:29,825: f1 score: 0.894
+INFO: 2020-04-27 16:30:29,845:               f1-score  precision    recall     support
+0             0.900552   0.920904  0.881081  185.000000
+1             0.885350   0.863354  0.908497  153.000000
+accuracy      0.893491   0.893491  0.893491    0.893491
+macro avg     0.892951   0.892129  0.894789  338.000000
+weighted avg  0.893671   0.894853  0.893491  338.000000
+INFO: 2020-04-27 16:30:30,280: -----------Done--------------------
+INFO: 2020-04-27 16:31:14,963: Testing model of upsampled data 
+INFO: 2020-04-27 16:31:14,964: model name:DTC-f1-0.894
+INFO: 2020-04-27 16:31:14,967: Sensitivity :0.208 
+INFO: 2020-04-27 16:31:14,967: Specificity : 0.500
+INFO: 2020-04-27 16:31:14,968: balanced Accuracy: 0.354
+INFO: 2020-04-27 16:31:14,970: f1 score: 0.321
+INFO: 2020-04-27 16:31:14,987:               f1-score  precision    recall     support
+0             0.260062   0.347107  0.207921  202.000000
+1             0.397985   0.330544  0.500000  158.000000
+accuracy      0.336111   0.336111  0.336111    0.336111
+macro avg     0.329023   0.338826  0.353960  360.000000
+weighted avg  0.320595   0.339838  0.336111  360.000000
+INFO: 2020-04-27 16:31:15,353: ---------Done----------------------
+INFO: 2020-04-27 16:31:54,255: Upsampled class with the model : SVC
+INFO: 2020-04-27 16:31:57,492: Sensitivity :0.903 
+INFO: 2020-04-27 16:31:57,499: Specificity : 0.941
+INFO: 2020-04-27 16:31:57,502: balanced Accuracy: 0.922
+INFO: 2020-04-27 16:31:57,504: f1 score: 0.920
+INFO: 2020-04-27 16:31:57,523:               f1-score  precision    recall     support
+0             0.925208   0.948864  0.902703  185.000000
+1             0.914286   0.888889  0.941176  153.000000
+accuracy      0.920118   0.920118  0.920118    0.920118
+macro avg     0.919747   0.918876  0.921940  338.000000
+weighted avg  0.920264   0.921715  0.920118  338.000000
+INFO: 2020-04-27 16:31:58,687: -----------Done--------------------
+INFO: 2020-04-27 16:32:30,327: Testing model of upsampled data 
+INFO: 2020-04-27 16:32:30,327: model name:SVC-f1-0.920
+INFO: 2020-04-27 16:32:30,478: Sensitivity :0.574 
+INFO: 2020-04-27 16:32:30,478: Specificity : 0.500
+INFO: 2020-04-27 16:32:30,480: balanced Accuracy: 0.537
+INFO: 2020-04-27 16:32:30,482: f1 score: 0.543
+INFO: 2020-04-27 16:32:30,504:               f1-score  precision    recall     support
+0             0.584383   0.594872  0.574257  202.000000
+1             0.489164   0.478788  0.500000  158.000000
+accuracy      0.541667   0.541667  0.541667    0.541667
+macro avg     0.536773   0.536830  0.537129  360.000000
+weighted avg  0.542592   0.543924  0.541667  360.000000
+INFO: 2020-04-27 16:32:30,883: ---------Done----------------------
+INFO: 2020-04-27 16:33:13,153: Upsampled class with the model : BC
+INFO: 2020-04-27 16:33:17,158: Sensitivity :0.903 
+INFO: 2020-04-27 16:33:17,159: Specificity : 0.935
+INFO: 2020-04-27 16:33:17,161: balanced Accuracy: 0.919
+INFO: 2020-04-27 16:33:17,163: f1 score: 0.917
+INFO: 2020-04-27 16:33:17,190:               f1-score  precision    recall    support
+0             0.922652   0.943503  0.902703  185.00000
+1             0.910828   0.888199  0.934641  153.00000
+accuracy      0.917160   0.917160  0.917160    0.91716
+macro avg     0.916740   0.915851  0.918672  338.00000
+weighted avg  0.917300   0.918469  0.917160  338.00000
+INFO: 2020-04-27 16:33:17,557: -----------Done--------------------
+INFO: 2020-04-27 16:33:46,789: Testing model of upsampled data 
+INFO: 2020-04-27 16:33:46,789: model name:BC-f1-0.917
+INFO: 2020-04-27 16:33:46,819: Sensitivity :0.500 
+INFO: 2020-04-27 16:33:46,820: Specificity : 0.538
+INFO: 2020-04-27 16:33:46,822: balanced Accuracy: 0.519
+INFO: 2020-04-27 16:33:46,825: f1 score: 0.518
+INFO: 2020-04-27 16:33:46,842:               f1-score  precision    recall     support
+0             0.537234   0.580460  0.500000  202.000000
+1             0.494186   0.456989  0.537975  158.000000
+accuracy      0.516667   0.516667  0.516667    0.516667
+macro avg     0.515710   0.518725  0.518987  360.000000
+weighted avg  0.518341   0.526270  0.516667  360.000000
+INFO: 2020-04-27 16:33:47,214: ---------Done----------------------
+INFO: 2020-04-27 16:34:42,574: Upsampled class with the model : EXT
+INFO: 2020-04-27 16:34:45,789: Sensitivity :0.924 
+INFO: 2020-04-27 16:34:45,789: Specificity : 0.935
+INFO: 2020-04-27 16:34:45,791: balanced Accuracy: 0.929
+INFO: 2020-04-27 16:34:45,824: f1 score: 0.929
+INFO: 2020-04-27 16:34:45,845:               f1-score  precision    recall     support
+0             0.934426   0.944751  0.924324  185.000000
+1             0.922581   0.910828  0.934641  153.000000
+accuracy      0.928994   0.928994  0.928994    0.928994
+macro avg     0.928503   0.927790  0.929482  338.000000
+weighted avg  0.929064   0.929396  0.928994  338.000000
+INFO: 2020-04-27 16:34:46,283: -----------Done--------------------
+INFO: 2020-04-27 16:35:43,327: Testing model of upsampled data 
+INFO: 2020-04-27 16:35:43,378: model name:EXT-f1-0.929
+INFO: 2020-04-27 16:35:43,414: Sensitivity :0.703 
+INFO: 2020-04-27 16:35:43,415: Specificity : 0.304
+INFO: 2020-04-27 16:35:43,417: balanced Accuracy: 0.503
+INFO: 2020-04-27 16:35:43,418: f1 score: 0.509
+INFO: 2020-04-27 16:35:43,439:               f1-score  precision    recall     support
+0             0.625551   0.563492  0.702970  202.000000
+1             0.360902   0.444444  0.303797  158.000000
+accuracy      0.527778   0.527778  0.527778    0.527778
+macro avg     0.493226   0.503968  0.503384  360.000000
+weighted avg  0.509399   0.511243  0.527778  360.000000
+INFO: 2020-04-27 16:35:43,849: ---------Done----------------------
+INFO: 2020-04-27 17:00:26,949: Testing model of upsampled data 
+INFO: 2020-04-27 17:00:26,988: model name:KNN-f1-0.867
+INFO: 2020-04-27 17:00:27,443: Sensitivity :0.500 
+INFO: 2020-04-27 17:00:27,443: Specificity : 0.690
+INFO: 2020-04-27 17:00:27,445: balanced Accuracy: 0.595
+INFO: 2020-04-27 17:00:27,466: f1 score: 0.582
+INFO: 2020-04-27 17:00:27,564:               f1-score  precision    recall     support
+0             0.573864   0.673333  0.500000  202.000000
+1             0.592391   0.519048  0.689873  158.000000
+accuracy      0.583333   0.583333  0.583333    0.583333
+macro avg     0.583127   0.596190  0.594937  360.000000
+weighted avg  0.581995   0.605619  0.583333  360.000000
+INFO: 2020-04-27 17:00:37,455: ---------Done----------------------
+INFO: 2020-04-27 17:00:37,925: Testing model of upsampled data 
+INFO: 2020-04-27 17:00:37,925: model name:KNN-f1-0.878
+INFO: 2020-04-27 17:00:38,493: Sensitivity :0.733 
+INFO: 2020-04-27 17:00:38,494: Specificity : 0.633
+INFO: 2020-04-27 17:00:38,502: balanced Accuracy: 0.683
+INFO: 2020-04-27 17:00:38,504: f1 score: 0.688
+INFO: 2020-04-27 17:00:38,529:               f1-score  precision    recall     support
+0             0.725490   0.718447  0.732673  202.000000
+1             0.641026   0.649351  0.632911  158.000000
+accuracy      0.688889   0.688889  0.688889    0.688889
+macro avg     0.683258   0.683899  0.682792  360.000000
+weighted avg  0.688420   0.688121  0.688889  360.000000
+INFO: 2020-04-27 17:00:41,814: ---------Done----------------------
+INFO: 2020-04-27 17:00:43,191: Testing model of upsampled data 
+INFO: 2020-04-27 17:00:43,191: model name:KNN-f1-0.888
+INFO: 2020-04-27 17:00:43,773: Sensitivity :0.604 
+INFO: 2020-04-27 17:00:43,774: Specificity : 0.532
+INFO: 2020-04-27 17:00:43,775: balanced Accuracy: 0.568
+INFO: 2020-04-27 17:00:43,779: f1 score: 0.573
+INFO: 2020-04-27 17:00:43,805:               f1-score  precision    recall     support
+0             0.613065   0.622449  0.603960  202.000000
+1             0.521739   0.512195  0.531646  158.000000
+accuracy      0.572222   0.572222  0.572222    0.572222
+macro avg     0.567402   0.567322  0.567803  360.000000
+weighted avg  0.572983   0.574060  0.572222  360.000000
+INFO: 2020-04-27 17:00:44,127: ---------Done----------------------
